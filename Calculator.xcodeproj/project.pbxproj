@@ -77,11 +77,11 @@
 		870A6BB81ACB0C6F00CEBA22 /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
-				870A6BBB1ACB0C6F00CEBA22 /* AppDelegate.swift */,
 				870A6BBD1ACB0C6F00CEBA22 /* ViewController.swift */,
 				870A6BBF1ACB0C6F00CEBA22 /* Main.storyboard */,
 				870A6BC21ACB0C6F00CEBA22 /* Images.xcassets */,
 				870A6BC41ACB0C6F00CEBA22 /* LaunchScreen.xib */,
+				870A6BBB1ACB0C6F00CEBA22 /* AppDelegate.swift */,
 				870A6BB91ACB0C6F00CEBA22 /* Supporting Files */,
 			);
 			path = Calculator;
